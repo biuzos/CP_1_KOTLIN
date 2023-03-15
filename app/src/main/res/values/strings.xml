@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GABRIEL_XIMENES_RM87285</string>
+    <string name="titulo">Qual sistema operacional você prefere</string>
+    <string name="string_android">Android</string>
+    <string name="string_ios">IOS</string>
+    <string name="string_resultado"></string>
 </resources>

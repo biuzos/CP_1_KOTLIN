@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="view_padding">32dp</dimen>
+    <dimen name="view_sizeTitulo">24sp</dimen>
+    <dimen name="bttn_padding">24dp</dimen>
+    <dimen name="view_sizeResultado">16sp</dimen>
+    
+</resources>
